@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+
+    <string name="txt_Estandar">Estándar</string>
+    <string name="txt_MC">MC</string>
+    <string name="txt_MR">MR</string>
+    <string name="txt_Mmas">M+</string>
+    <string name="txt_Mmenos">M-</string>
+    <string name="txt_M">M</string>
+    <string name="txt_Porcentaje">%</string>
+    <string name="txt_Raiz">√</string>
+    <string name="txt_Cuadrado">x^2</string>
+    <string name="txt_Fraccion">1/X</string>
+    <string name="txt_CE">CE</string>
+    <string name="txt_C">C</string>
+    <string name="txt_Del">DEL</string>
+    <string name="txt_Division">÷</string>
+    <string name="txt_Siete">7</string>
+    <string name="txt_Ocho">8</string>
+    <string name="txt_Nueve">9</string>
+    <string name="txt_Multiplicar">X</string>
+    <string name="txt_Cuatro">4</string>
+    <string name="txt_Cinco">5</string>
+    <string name="tct_Seis">6</string>
+    <string name="txt_Restar">-</string>
+    <string name="txt_Uno">1</string>
+    <string name="txt_Dos">2</string>
+    <string name="txt_Tres">3</string>
+    <string name="txt_Sumar">+</string>
+    <string name="txt_MasMenos">±</string>
+    <string name="txt_Cero">0</string>
+    <string name="txt_Punto">.</string>
+    <string name="txt_Igual">=</string>
+
+</resources>
